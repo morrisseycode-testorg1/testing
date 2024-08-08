@@ -13,4 +13,4 @@ jobs:
         run: echo Hello from my org
 
   call-deployment-workflow-in-repo:
-    uses: morrisseycode-testorg1/.github/workflows/reusable-workflow.yml@main
+    uses: morrisseycode-testorg1/.github/.github/workflows/reusable-workflow.yml@main
