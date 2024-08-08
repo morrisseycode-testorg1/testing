@@ -11,3 +11,6 @@ jobs:
     
       - name: Run a one-line script
         run: echo Hello from my org
+
+  call-deployment-workflow-in-repo:
+    uses: morrisseycode-testorg1/.github/workflows/reusable-workflow.yml@main
